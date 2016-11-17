@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!--애니메이션 코드 구현 10000는 10초에 한바퀴 infinite은 무산루프-->
+    <rotate
+        android:duration="5000"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:fromDegrees="0"
+        android:toDegrees="360"
+        android:repeatCount="infinite"/>
+
+
+
+
+
+</set>
